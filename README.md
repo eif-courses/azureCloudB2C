@@ -68,5 +68,18 @@ Paskutinis žingsnis nueiti į sukurtą Azure Active Directory B2C programą ir 
 
 ![image](https://user-images.githubusercontent.com/8007447/213887325-c1b92cd6-4a3f-4e08-8ae7-2a28bf97a0e4.png)
 
+Taip pat Mongo DB sukurti duomenų bazę pvz. audit 
+
+![image](https://user-images.githubusercontent.com/8007447/213887551-debdf693-d225-444e-97a9-8aa71434f156.png)
+
+Bei įvesti mongo db connection string iš nemokamai sukurto cluster pvz. šiuo atveju naudojame pavadimu EIF-CLUSTER
+
+![image](https://user-images.githubusercontent.com/8007447/213887594-63638704-ffbb-41a1-b823-1d368007d9ed.png)
+
+Toliau pasirenkame Connect your application pasirenkame C#/NET ir nukopijuojame Connection string informaciją bei patalpiname į savo projekto appsettings.json
+
+![image](https://user-images.githubusercontent.com/8007447/213887650-f98e0d9c-fbea-487b-9325-af0d2a947109.png)
+
+
 
 
