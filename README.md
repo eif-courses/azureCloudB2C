@@ -27,3 +27,11 @@ Jeigu viskas tvarkoje pasirinkti kitą tenant (kaip atskira paskira)
 <img width="830" alt="image" src="https://user-images.githubusercontent.com/8007447/213885218-cef5a08a-e509-48f9-bea6-359abddb7120.png">
 Pasirinkti App registrations ir New registration ir suvesti reikiamą informaciją -> spausti Register
 ![image](https://user-images.githubusercontent.com/8007447/213885478-7e96a777-24d2-4c4c-81ce-3b89a094059b.png)
+
+Užregistravus šią progarmą pereiti lygiu atgal ir pasirinkti Azure AD B2C | User flows 
+<img width="712" alt="image" src="https://user-images.githubusercontent.com/8007447/213886093-dbde14ab-0efa-49a3-875d-a79212b2c3ac.png">
+
+Pasirinkti + New user flow ir naujai atsiradusiame lange Sign in and Sign Up -> Recommended 
+
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/8007447/213886196-04037c9c-1e69-4041-8ce8-2b61af935c4f.png">
+
