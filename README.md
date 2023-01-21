@@ -61,5 +61,12 @@ Client Id rasite čia
 
 ![image](https://user-images.githubusercontent.com/8007447/213886888-80638137-0d79-4bc9-8266-8e64097a8599.png)
 
+Suvedūs informacija turi atrodyti pagal jūsų sukurtą tenant vardą panašiai kaip šiame paveikslėlyje
+![image](https://user-images.githubusercontent.com/8007447/213887266-b109a5ea-4e52-4f0b-a68b-a81a092d0a47.png)
+
+Paskutinis žingsnis nueiti į sukurtą Azure Active Directory B2C programą ir pažymėti pora nustatymų Access tokens, ID tokens checked
+
+![image](https://user-images.githubusercontent.com/8007447/213887325-c1b92cd6-4a3f-4e08-8ae7-2a28bf97a0e4.png)
+
 
 
