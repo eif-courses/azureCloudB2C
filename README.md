@@ -35,7 +35,31 @@ Pasirinkti + New user flow ir naujai atsiradusiame lange Sign in and Sign Up -> 
 
 <img width="866" alt="image" src="https://user-images.githubusercontent.com/8007447/213886196-04037c9c-1e69-4041-8ce8-2b61af935c4f.png">
 
-Tada užpildyti informaciją susijusia su Sign in Sign up, todėl vadiname susi, bei 5 žingsnyje user attributes pasirenkame šiuos pažymėtus varnele, Return reiškia kaip GET (read only), o pirmame stulpelyje kaip SET (write, mutate value) 
+Tada užpildyti informaciją susijusia su Sign in Sign up, todėl vadiname **susi**, bei 5 žingsnyje user attributes pasirenkame šiuos pažymėtus varnele, Return reiškia kaip GET (read only), o pirmame stulpelyje kaip SET (write, mutate value), bei galiausiai spaudžiame CREATE.
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/8007447/213886393-0467a3bc-22a4-429a-8cf6-9d24949e9186.png">
+
+Tada sekančiame žingsnyje, kuriame Profile edit User flow pavadimas bus **edit**
+
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/8007447/213886563-dcd12df1-23c4-4eb8-9098-4f650e10fe71.png">
+
+Toliau renkames password reset user flow ir pavadiname **reset**
+
+<img width="1267" alt="image" src="https://user-images.githubusercontent.com/8007447/213886706-f7d07221-01a3-42a3-bab1-52c79cbbaa46.png">
+
+Galiausiai sukurūs šiuos pagrindinius vartotojo prisijungimo veiksmus matysite tokį vaizdą
+
+<img width="731" alt="image" src="https://user-images.githubusercontent.com/8007447/213886742-8572679b-c9b0-4693-ba72-428f91018045.png">
+
+Tada atsidarius C# projektą ir appsettings.json faile įvesti reikiamus duomenis skirtus sujungti su azure B2C 
+
+![image](https://user-images.githubusercontent.com/8007447/213886823-9c0ee42c-8fe0-46f3-87b0-d893fcc3d32f.png)
+
+Domain vardą rasite čia 
+![image](https://user-images.githubusercontent.com/8007447/213886857-166c94b4-0669-4f34-b7b7-e7786cc7bff5.png)
+
+Client Id rasite čia
+
+![image](https://user-images.githubusercontent.com/8007447/213886888-80638137-0d79-4bc9-8266-8e64097a8599.png)
+
 
 
