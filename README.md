@@ -80,6 +80,9 @@ Toliau pasirenkame Connect your application pasirenkame C#/NET ir nukopijuojame 
 
 ![image](https://user-images.githubusercontent.com/8007447/213887650-f98e0d9c-fbea-487b-9325-af0d2a947109.png)
 
+Pavyzdys kaip atrodo suvesta informacija
+
+![image](https://user-images.githubusercontent.com/8007447/213887672-62693286-d453-49cb-bc78-c62a55151896.png)
 
 
 
