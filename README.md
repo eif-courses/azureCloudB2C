@@ -25,3 +25,5 @@ Tada spausti Create
 
 Jeigu viskas tvarkoje pasirinkti kitą tenant (kaip atskira paskira) 
 <img width="830" alt="image" src="https://user-images.githubusercontent.com/8007447/213885218-cef5a08a-e509-48f9-bea6-359abddb7120.png">
+Pasirinkti App registrations ir New registration ir suvesti reikiamą informaciją -> spausti Register
+![image](https://user-images.githubusercontent.com/8007447/213885478-7e96a777-24d2-4c4c-81ce-3b89a094059b.png)
