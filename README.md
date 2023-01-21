@@ -35,3 +35,7 @@ Pasirinkti + New user flow ir naujai atsiradusiame lange Sign in and Sign Up -> 
 
 <img width="866" alt="image" src="https://user-images.githubusercontent.com/8007447/213886196-04037c9c-1e69-4041-8ce8-2b61af935c4f.png">
 
+Tada užpildyti informaciją susijusia su Sign in Sign up, todėl vadiname susi, bei 5 žingsnyje user attributes pasirenkame šiuos pažymėtus varnele, Return reiškia kaip GET (read only), o pirmame stulpelyje kaip SET (write, mutate value) 
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/8007447/213886393-0467a3bc-22a4-429a-8cf6-9d24949e9186.png">
+
+
